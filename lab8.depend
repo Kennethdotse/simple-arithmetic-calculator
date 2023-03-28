@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679939257 source:c:\users\kenneth kwame\desktop\c programming\files\myexamsrevision\lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
